@@ -1,0 +1,6 @@
+C:\Akhilesh\GIt Personal Code\DesignPattern\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Akhilesh\GIt Personal Code\DesignPattern\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Akhilesh\GIt Personal Code\DesignPattern\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Akhilesh\GIt Personal Code\DesignPattern\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojAssemblyReference.cache
+C:\Akhilesh\GIt Personal Code\DesignPattern\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Akhilesh\GIt Personal Code\DesignPattern\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
